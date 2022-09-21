@@ -15,6 +15,7 @@
     "react-dom": "^18.2.0",
     "react-firebase-hooks": "^5.0.3",
     "react-google-button": "^0.7.2",
+    "react-player": "^2.11.0",
     "react-redux": "^8.0.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"

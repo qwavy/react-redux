@@ -6,7 +6,7 @@ const SignOut = () => {
         signOut(auth)
     }
     return(
-        // <GoogleButton/>
+    
         <div>
             <button onClick={logout}>SignOut</button>
         </div>
